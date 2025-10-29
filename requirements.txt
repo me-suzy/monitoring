@@ -1,0 +1,4 @@
+# Using Python stdlib HTTP client; no heavy deps required
+# Optional: you can add 'requests' if preferred
+# requests==2.32.3
+
