@@ -1,0 +1,10 @@
+SITE_URL = "https://neculaifantanaru.com"
+REQUEST_TIMEOUT_SECONDS = 20
+MAX_PAGES_CRAWL = 200
+ALLOWED_HOSTS = ["neculaifantanaru.com", "www.neculaifantanaru.com"]
+USER_AGENT = "SiteMonitor/1.0 (+https://github.com/me-suzy/Proiect-action-GitHub)"
+REPORT_DIR = ".reports"
+TTFB_WARNING_MS = 800
+SSL_EXPIRY_WARN_DAYS = 15
+
+
